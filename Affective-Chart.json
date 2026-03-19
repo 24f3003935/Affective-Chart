@@ -1,0 +1,7 @@
+{
+  "prompt": "A cinematic, low-angle shot of a vast, dark, turbulent sea under a heavy, charcoal-grey storm sky. The entire surface of the water, stretching to the horizon, is densely covered with thousands of floating, translucent white shirts and garments, half-submerged like spectral figures. No people are visible. The atmosphere is somber, silent, and haunting. High-detail fabric textures, cold color palette, photorealistic, evocative of a mass memorial, 8k resolution, deep focus.",
+  "model": "Gemini 3 Flash Image (Nano Banana 2)",
+  "dataset_name": "IOM Missing Migrants Project",
+  "dataset_url": "https://missingmigrants.iom.int/over-60000-deaths-and-disappearances-recorded-iom-during-decade-missing-migrants",
+  "insight": "Over 60,000 migrants have died or gone missing globally since 2014, with the Mediterranean remaining the deadliest route, creating a vast, silent graveyard of interrupted journeys.",
+}
