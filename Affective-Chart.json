@@ -1,7 +1,7 @@
 {
-  "prompt": "A cinematic, low-angle shot of a vast, dark, turbulent sea under a heavy, charcoal-grey storm sky. The entire surface of the water, stretching to the horizon, is densely covered with thousands of floating, translucent white shirts and garments, half-submerged like spectral figures. No people are visible. The atmosphere is somber, silent, and haunting. High-detail fabric textures, cold color palette, photorealistic, evocative of a mass memorial, 8k resolution, deep focus.",
-  "model": "Gemini 3 Flash Image (Nano Banana 2)",
-  "dataset_name": "IOM Missing Migrants Project",
-  "dataset_url": "https://missingmigrants.iom.int/over-60000-deaths-and-disappearances-recorded-iom-during-decade-missing-migrants",
-  "insight": "Over 60,000 migrants have died or gone missing globally since 2014, with the Mediterranean remaining the deadliest route, creating a vast, silent graveyard of interrupted journeys.",
+  "prompt": "Perfect top-down aerial view of a dense tropical jungle, no perspective or horizon, flat isometric composition. The jungle appears as a continuous textured green canopy. Cutting through it is a narrow path made of tiny human figures, forming a thin line at one edge. As the path progresses across the image, it steadily widens and becomes denser, transforming into a massive band of tightly packed human figures. Toward the far end, the human mass expands so dramatically that it overwhelms and replaces the jungle entirely, forming a dense, continuous human field. The scale change is clear and uniform, not affected by perspective. The figures are small and indistinct. No text, no labels, no charts, no maps. Cinematic but flat lighting, highly detailed, photorealistic, emotionally powerful, magazine cover style, 4k. Negative prompt: no perspective depth, no horizon, no vanishing point, no infographic, no chart, no graph, no text, no labels, no map outlines.",
+  "model": "Ideogram 2",
+  "dataset_name": "UNICEF Darién Gap Migration Data (2024)",
+  "dataset_url": "https://www.unicef.org/lac/en/press-releases/child-migration-darien-gap-panama-forty-per-cent-increase-so-far-this-year",
+  "insight": "Crossings through the Darién Gap have surged from a small trickle into a massive, overwhelming human flow in just a few years"
 }
